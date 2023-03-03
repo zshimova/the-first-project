@@ -1,0 +1,8 @@
+.logo {
+    width: 183px;
+    background-position: center;
+    background-size: contain;
+    background-image: url(../../images/logo_place_header.svg);
+    background-repeat: no-repeat;
+    z-index: 2;
+}
